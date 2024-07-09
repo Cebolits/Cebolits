@@ -1,1 +1,1 @@
-<img hight="300" width="700" alt="GIF" align"center" src="https://github.com/Cebolits/Cebolits/blob/main/Gifs/gif.gif">
+<p align="left"><img width=15%" src="https://github.com/Cebolits/Cebolits/blob/main/Gifs/gif.gif" alt="lang image here" /></p>
