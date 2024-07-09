@@ -7,4 +7,4 @@
 
 ![cebolits's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cebolits&theme=vision-friendly-dark&hide_border=true)
 
-<div>hentai</div>
+<div>tchau</div>
